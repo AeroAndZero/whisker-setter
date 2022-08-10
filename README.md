@@ -2,8 +2,8 @@
 An electron app that helps you fit an image of sample whisker between two bezier curves
 
 ## Installation and Boot
-This project is built on electron and node js, therefore it needs to be setup at first using ```npm install```
-After installing all the necessary packages, you can start the app by ```npm start```
+This project is built on electron and node js, therefore it needs to be setup at first using ```npm install```      
+After installing all the necessary packages, you can start the app by ```npm start```      
 
 ## Usage
 1. To set a curve, you must click 4 times on the prefered area for initiate 4 points of bezier curve
